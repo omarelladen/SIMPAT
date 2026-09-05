@@ -1,3 +1,6 @@
+# Copyright 2026 Omar Zagonel El Laden
+# SPDX-License-Identifier: GPL-2.0-only
+
 import random
 import sqlite3
 from typing import Annotated

@@ -1,3 +1,6 @@
+// Copyright 2026 Omar Zagonel El Laden
+// SPDX-License-Identifier: GPL-2.0-only
+
 #include <sys/time.h>
 #include <WiFi.h>
 #include <HTTPClient.h>

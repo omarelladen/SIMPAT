@@ -28,6 +28,7 @@ sudo apt install python3-fastapi sqlite3
 ```
 
 ### Run server (local)
+
 #### Setup database
 ```sh
 ./scripts/setup_db.sh
@@ -41,7 +42,7 @@ python3 main.py
 
 ### Run server (Docker)
 
-### Install requirements (Debian)
+#### Install requirements (Debian)
 ```sh
 sudo apt install docker.io docker-compose
 ```
@@ -56,3 +57,8 @@ sudo apt install docker.io docker-compose
 ```sh
 ./scripts/docker/start.sh
 ```
+
+## License
+[GPLv2](./LICENSE)
+
+Copyright 2026 Omar Zagonel El Laden
