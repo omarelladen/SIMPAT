@@ -1,7 +1,7 @@
 # Sistema Inteligente de Monitoramento Patrimonial (SIMPAT)
 
 ## Website
-[GitHub Page](https://omarelladen.github.io/InventoryTracker/)
+[GitHub Page](https://omarelladen.github.io/SIMPAT/)
 
 
 ## Firmware (ESP32 using the Arduino framework)
